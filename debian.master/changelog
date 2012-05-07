@@ -1,3 +1,9 @@
+linux (3.2.0-24.38palm0) precise-proposed; urgency=low
+
+  * Palm numbering is only change.
+
+ -- Rich Pixley <rich.pixley@palm.com>  Mon, 7 May 2012 16:50:00 -0900
+
 linux (3.2.0-24.38) precise-proposed; urgency=low
 
   [ Luis Henriques ]
